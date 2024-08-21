@@ -12,10 +12,12 @@ import 'home_widgets/today_for_section.dart';
 import 'home_widgets/looking_for_section.dart';
 import 'home_widgets/daily_advice_section.dart';
 import 'package:StudentFit/screens/food/lunch.dart';
+import 'package:StudentFit/screens/food/dinner.dart';
 import 'package:StudentFit/screens/login/login.dart';
 import 'package:StudentFit/screens/schedule/schedulePage.dart';
 import 'package:StudentFit/screens/schedule/calendarPage.dart';
 import 'package:StudentFit/screens/welcomePages/widgets/app_text_styles.dart';
+
 
 
 
@@ -31,6 +33,7 @@ class HomePage extends StatelessWidget {
         '/breakfast': (context) => BreakfastPage(),
         '/lunch': (context) => LunchPage(),
         '/snack': (context) => SnackPage(),
+        '/dinner': (context) => DinnerPage(),
         '/homepage': (context) => const HomePage(
               appBarTitle: 'Home',
             ),

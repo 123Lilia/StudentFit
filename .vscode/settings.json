@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/Users/lilia/Desktop/StudentFit/linux"
+    "cmake.sourceDirectory": "/Users/lilia/Desktop/StudentFit/linux",
+    "java.configuration.updateBuildConfiguration": "interactive"
 }

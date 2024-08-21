@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "690668824899",
+    "project_id": "studentfit-9caab",
+    "storage_bucket": "studentfit-9caab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690668824899:android:37d3ee86ca32e501c5a7f6",
+        "android_client_info": {
+          "package_name": "com.tesing.studentFit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5IVxMHyDADkR2qapMGJWVG8gqEDnoYpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
